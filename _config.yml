@@ -60,9 +60,5 @@ plugins:
 navigation_header:
 - title: Home
   url: /
-- title: Elements
-  url: /elements/
-- title: Blog
-  url: /blog/
-- title: Categories
-  url: /categories/
+- title: Impressum
+  url: /impressum/
