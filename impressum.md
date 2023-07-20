@@ -1,5 +1,5 @@
 ---
-title: KI Sprachtec
+title: Impressum
 feature_text: | 
   ## KI Sprachtec
   eine Kollaboration von AX Semantics und der Universität Reutlingen
