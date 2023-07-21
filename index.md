@@ -13,6 +13,8 @@ feature_text: |
 
 > KI Sprachtec unterstützt Hersteller aller Branchen bei der Rationalisierung ihrer Arbeits-, Logistik- und Produktionsprozesse durch die Automatisierung sich wiederholender und kostspieliger Schreibprozesse. Unsere Software zur Generierung von Inhalten auf der Grundlage von Daten zu Text erstellt hochwertige Inhalte in bis zu 110 Sprachen. Mit KI Sprachtec können Sie ihre Content Ziele erreichen. Unsere Software kann Ihnen dabei helfen, digitale Tools zur Optimierung Ihrer Fertigungsprozesse und Multi-Channel-Inhalte einzusetzen und gleichzeitig die Übersetzungskosten zu senken. Wir können Sie dabei unterstützen, Mängel in Ihren Produktionsprozessen zu beseitigen und ungenutzte Prozessmöglichkeiten zu nutzen, die den Ressourcenbedarf reduzieren und/oder einen Mehrwert schaffen.
 
+![Werk150](/assets/images/werk150.jpg)
+
 ## An wen richtet sich KI Sprachtec?
 
 * Unternehmen, die mit der mangelnden Standardisierung ihrer Dokumentation zu kämpfen haben und mit hohen Kosten für die Berichterstattung konfrontiert sind.
