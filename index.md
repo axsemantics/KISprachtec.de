@@ -5,7 +5,7 @@
 title: KI Sprachtec
 feature_text: | 
   ## KI Sprachtec
-  eine Kollaboration von AX Semantics und der Universität Reutlingen
+  eine Kollaboration von [AX Semantics](https://ax-semantics.com) und [Werk150 der ESB Business School Hochschule Reutlingen](https://www.esb-business-school.de/forschung/wertschoepfungs-und-logistiksysteme/werk150)
 # layout: home
 ---
 
@@ -99,3 +99,4 @@ KI Sprachtec versetzt Unternehmen in die Lage, durch die Optimierung der Inhalts
 Gefördert durch:
 
 <img src="/assets/logos/bwlogo.jpg" width=250>
+<img src="/assets/logos/investbw_full.png" width=250>
