@@ -8,16 +8,15 @@ feature_text: |
 # Inhaltlich verantwortlich
 
 AX Semantics GmbH
-AX Semantics GmbH
 
-Nordbahnhofstraße 115
-70191 Stuttgart
+Nordbahnhofstraße 115  
+70191 Stuttgart  
 Germany
 
 HEADQUARTER: STUTTGART
 
 PHONE: +49 711 699 486-0  
-E-MAIL: INFO@AX-SEMANTICS.COM
+E-MAIL: info@ax-semantics.com
 
 VAT ID: DE261230571
 
