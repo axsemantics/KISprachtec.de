@@ -8,10 +8,11 @@ feature_text: |
 # Inhaltlich verantwortlich
 
 AX Semantics GmbH
+AX Semantics GmbH
 
-MARIENSTRASSE 23  
-70178 STUTTGART  
-GERMANY
+Nordbahnhofstraße 115
+70191 Stuttgart
+Germany
 
 HEADQUARTER: STUTTGART
 
