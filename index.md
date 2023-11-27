@@ -2,18 +2,26 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: KI Sprachtec
+title: Worum geht es?
 feature_text: | 
   ## KI Sprachtec
-  eine Kollaboration von [AX Semantics](https://ax-semantics.com) und [Werk150 der ESB Business School Hochschule Reutlingen](https://www.esb-business-school.de/forschung/wertschoepfungs-und-logistiksysteme/werk150)
+  eine Kollaboration von [AX Semantics](https://ax-semantics.com) und dem [Werk150](https://www.esb-business-school.de/forschung/wertschoepfungs-und-logistiksysteme/werk150) der ESB Business School
 # layout: home
 ---
 
-# Worum geht es
 
-> KI Sprachtec unterstützt Hersteller aller Branchen bei der Rationalisierung ihrer Arbeits-, Logistik- und Produktionsprozesse durch die Automatisierung sich wiederholender und kostspieliger Schreibprozesse. Unsere Software zur Generierung von Inhalten auf der Grundlage von Daten zu Text erstellt hochwertige Inhalte in bis zu 110 Sprachen. Mit KI Sprachtec können Sie ihre Content Ziele erreichen. Unsere Software kann Ihnen dabei helfen, digitale Tools zur Optimierung Ihrer Fertigungsprozesse und Multi-Channel-Inhalte einzusetzen und gleichzeitig die Übersetzungskosten zu senken. Wir können Sie dabei unterstützen, Mängel in Ihren Produktionsprozessen zu beseitigen und ungenutzte Prozessmöglichkeiten zu nutzen, die den Ressourcenbedarf reduzieren und/oder einen Mehrwert schaffen.
+> KI Sprachtec ist ein Forschungsprojekt zur technologischen Weiterentwicklung der KI-basierten und automatisierten Erstellung von Texten aus strukturierten Daten.
 
-![Werk150](/assets/images/werk150.jpg)
+{: style="text-align: justify" }
+Die im Projekt entwickelte Software ermöglicht die Automatisierung sich wiederholender, kostspieliger Schreibprozesse: Inhalte können in 110 Sprachen generiert werden; Inhalte können dynmisch personalisiert werden; Inhalte können sich selbstlernend verbessern. Mögliche Anwendungsfälle sind nahezu grenzenlos und reichen von der automatisierten Betextung von Produktdeteilseiten im eCommerce, über die Generierung von Business-Reports, bis hin zu dynamischen Arbeitsanweisungen in Smart-Factories.
+
+{: style="text-align: justify" }
+Um die Potentiale für Skalierbarbeit und Effizienz der entwickelten Software voll auszunutzen, muss der Schreibprozess von der Verwaltung der strukturierten Daten bis  
+Alles was strukturiert digitalisiert vorliegt kann einfach betextet werden. Probieren Sie den derzeitigen Stand aus (Link).
+
+
+![AAS](assets\images\aas_app_ki_sprachtec.png)
+
 
 ## An wen richtet sich KI Sprachtec?
 
@@ -95,6 +103,8 @@ Das NLG-Produkt KI Sprachtec von AX Semantics und der Universität Reutlingen bi
 * Verringern Sie die Rückgabequote, indem Sie umfassende und genaue Produktinformationen anbieten und so die Unsicherheit der Kunden verringern.
 
 KI Sprachtec versetzt Unternehmen in die Lage, durch die Optimierung der Inhaltserstellung, die Rationalisierung von Prozessen, die Steigerung der Qualität und die Verbesserung der Kundenerfahrung einen erheblichen Geschäftswert zu erschließen.
+
+![Werk150](/assets/images/werk150.jpg)
 
 Gefördert durch:
 

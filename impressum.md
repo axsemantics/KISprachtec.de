@@ -2,7 +2,7 @@
 title: Impressum
 feature_text: | 
   ## KI Sprachtec
-  eine Kollaboration von AX Semantics und der Universität Reutlingen
+  eine Kollaboration von [AX Semantics](https://ax-semantics.com) und dem [Werk150](https://www.esb-business-school.de/forschung/wertschoepfungs-und-logistiksysteme/werk150) der ESB Business School
 ---
 
 # Inhaltlich verantwortlich
