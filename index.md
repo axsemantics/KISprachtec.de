@@ -13,7 +13,7 @@ feature_text: |
 > KI Sprachtec ist ein Forschungsprojekt zur technologischen Weiterentwicklung der KI-basierten und automatisierten Erstellung von Texten aus strukturierten Daten.
 
 {: style="text-align: justify" }
-Die im Projekt entwickelte Software ermöglicht die Automatisierung sich wiederholender, kostspieliger Schreibprozesse: Inhalte können in 110 Sprachen generiert werden; Inhalte können dynmisch personalisiert werden; Inhalte können sich selbstlernend verbessern. Mögliche Anwendungsfälle sind nahezu grenzenlos und reichen von der automatisierten Betextung von Produktdeteilseiten im eCommerce, über die Generierung von Business-Reports, bis hin zu dynamischen Arbeitsanweisungen in Smart-Factories.
+Die im Projekt entwickelte Software ermöglicht die sklaierbare Automatisierung sich wiederholender, kostspieliger Schreibprozesse: Inhalte können in 110 Sprachen generiert werden; Inhalte können dynmisch personalisiert werden; Inhalte können sich selbstlernend verbessern. Mögliche Anwendungsfälle sind nahezu grenzenlos und reichen von der automatisierten Betextung von Produktdeteilseiten im eCommerce, über die Generierung von Business-Reports, bis hin zu dynamischen Arbeitsanweisungen in Smart-Factories.
 
 {: style="text-align: justify" }
 Um die Potentiale für Skalierbarbeit und Effizienz der entwickelten Software voll auszunutzen, muss der Schreibprozess von der Verwaltung der strukturierten Daten bis  
@@ -25,12 +25,10 @@ Alles was strukturiert digitalisiert vorliegt kann einfach betextet werden. Prob
 
 ## An wen richtet sich KI Sprachtec?
 
-* Unternehmen, die mit der mangelnden Standardisierung ihrer Dokumentation zu kämpfen haben und mit hohen Kosten für die Berichterstattung konfrontiert sind.
-* Unternehmen, die nicht über ausreichende Schreibressourcen oder Übersetzungsbudgets verfügen, um ihr umfangreiches Produktsortiment abzudecken, insbesondere wenn sie ein großes Textvolumen und mehrere Sprachen verwalten müssen.
-* Unternehmen, die mit teuren externen Dienstleistern und einem hohen Koordinationsbedarf konfrontiert sind.
-* Unternehmen, die aufgrund unzufriedener Kunden und zahlreicher Beschwerden mit hohen Kosten für den Kundensupport konfrontiert sind.
-* Unternehmen, die mit dem Fehlen einer strukturierten Bestandsdatenverwaltung zu kämpfen haben und mit heterogenen Systemen und veralteten Daten zu kämpfen haben.
-* Unternehmen, die Multi-Channel-Content benötigen, um ihre Zielgruppen effektiv zu erreichen.
+Unternehmen, die sich mit folgenden Herausforderungen konfrontiert sehen:
+
+<br /> 
+![AAS](assets\images\challenges-customers.png)
 
 KI Sprachtec bietet eine Lösung für diese Herausforderungen und versetzt Unternehmen in die Lage, ihre Dokumentationsprozesse zu rationalisieren, Kosten zu senken, die Kundenzufriedenheit zu verbessern und das Content Management über verschiedene Kanäle zu optimieren.
 
