@@ -10,101 +10,31 @@ feature_text: |
 ---
 
 
-> KI Sprachtec ist ein Forschungsprojekt zur technologischen Weiterentwicklung der KI-basierten und automatisierten Erstellung von Texten aus strukturierten Daten.
+> KI Sprachtec ist ein Forschungsprojekt zur technologischen Weiterentwicklung der KI-basierten, skalierbaren und automatisierten Erstellung von Texten aus strukturierten Daten.
 
-{: style="text-align: justify" }
-Die im Projekt entwickelte Software ermöglicht die sklaierbare Automatisierung sich wiederholender, kostspieliger Schreibprozesse: Inhalte können in 110 Sprachen generiert werden; Inhalte können dynmisch personalisiert werden; Inhalte können sich selbstlernend verbessern. Mögliche Anwendungsfälle sind nahezu grenzenlos und reichen von der automatisierten Betextung von Produktdeteilseiten im eCommerce, über die Generierung von Business-Reports, bis hin zu dynamischen Arbeitsanweisungen in Smart-Factories.
+Die im Projekt entwickelte Software ermöglicht die skalierbare Automatisierung sich wiederholender, kostspieliger Schreibprozesse: Inhalte werden in 110 Sprachen generiert, dynamisch personalisiert und können sich selbstlernend verbessern.
 
-{: style="text-align: justify" }
-Um die Potentiale für Skalierbarbeit und Effizienz der entwickelten Software voll auszunutzen, muss der Schreibprozess von der Verwaltung der strukturierten Daten bis  
-Alles was strukturiert digitalisiert vorliegt kann einfach betextet werden. Probieren Sie den derzeitigen Stand aus (Link).
+Anwendungsfälle reichen von der automatisierten Betextung von Produktdetailseiten im eCommerce, über die Generierung von Business-Reports, bis hin zu dynamischen Arbeitsanweisungen in Smart-Factories.
+
+Alle Daten, die strukturiert digitalisiert zu einem Asset vorliegen können einfach betextet werden. Standards wie die Asset Administration Shell (AAS) sorgen dafür, dass Daten zu jeder Zeit strukturiert vorliegen und damit noch einfacher betextet werden können
 
 
 ![AAS](assets\images\aas_app_ki_sprachtec.png)
 
-
+<br>
 ## An wen richtet sich KI Sprachtec?
 
-Unternehmen, die sich mit folgenden Herausforderungen konfrontiert sehen:
+KI Sprachtec richtet sich an Unternehmen, die sich mit folgenden Herausforderungen konfrontiert sehen:
 
-<br /> 
-![AAS](assets\images\challenges-customers.png)
+![AAS](assets\images\herausforderungen_g.png)
 
-KI Sprachtec bietet eine Lösung für diese Herausforderungen und versetzt Unternehmen in die Lage, ihre Dokumentationsprozesse zu rationalisieren, Kosten zu senken, die Kundenzufriedenheit zu verbessern und das Content Management über verschiedene Kanäle zu optimieren.
 
-## Welche Konsequenzen können durch Nichthandlung für Unternehmen entstehen?
+> KI Sprachtec bietet eine Lösung für diese Herausforderungen und versetzt Unternehmen in die Lage, Prozesse zu rationalisieren, Kosten zu senken, die Kundenzufriedenheit zu verbessern und das Content Management über verschiedene Kanäle zu optimieren.<br>
+Probieren Sie den derzeitigen Stand [hier](https://docs.ax-semantics.com/guides/seminar.html#the-basics) aus.
 
-* Das Ignorieren des Handlungsbedarfs führt zu hohen Opportunitätskosten, da ihnen potenzielle Einnahmen und Wachstum entgehen.
-* Ohne strukturierte und semantisch kommentierte Daten haben Unternehmen mit der Nichtverfügbarkeit umfassender und konsistenter Produktbeschreibungen zu kämpfen.
-* Produkte, die ohne spezifische Beschreibungen oder Übersetzungen angeboten werden, erzielen deutlich geringere Umsätze.
-* Die begrenzte Interoperabilität zwischen den am Wertschöpfungsprozess Beteiligten behindert die Zusammenarbeit und Effizienz.
-* Internationalisierung und Diversifizierung in neue Märkte scheitern an fehlenden Inhalten.
-* Manuelle Textaktualisierungen machen das Content-Management unübersichtlich und führen zu ineffizienten Prozessen.
-* Fehlende kanalspezifische Anpassung von Inhalten behindert die effektive Kommunikation über verschiedene Plattformen hinweg.
-* Jede Änderung der zugrundeliegenden Daten verursacht Übersetzungskosten, was zu unnötigen Ausgaben führt.
-* Das Vertrauen in die Inhalte ist ohne manuelle Prüfung gefährdet, was wiederum Risiken für die Genauigkeit und Zuverlässigkeit birgt.
-
-Die innovative NLG-Lösung von AX Semantics und der Universität Reutlingen adressiert diese Herausforderungen und versetzt Unternehmen in die Lage, ihr Potenzial auszuschöpfen, das Datenmanagement zu verbessern, die Qualität der Inhalte zu erhöhen und die Geschäftsmöglichkeiten zu maximieren.
-
-> Deshalb glauben wir, dass eine skalierbare und datengesteuerte Textautomatisierung für Einzelhändler und Hersteller notwendig ist.
-
-## Die Lösung verspricht:
-
-* Unser Produkt bietet eine strukturierte Datenverwaltung über den gesamten Lebenszyklus von Anlagen und gewährleistet so Effizienz und Genauigkeit.
-* Erleben Sie eine optimierte Daten-zu-Text-Pipeline, die die Asset Administration Shell (AAS) nahtlos in die NLG Cloud integriert.
-* Verwandeln Sie das manuelle Schreiben in einen softwarebasierten Workflow, der autonomes Veröffentlichen und Aktualisieren ermöglicht.
-* Skalieren Sie Ihr Autorenteam mühelos, um Inhalte für Millionen von Texten zu erstellen, zu pflegen und zu aktualisieren.
-* Automatisieren Sie Ihren Übersetzungsprozess mit KI-gestützten Funktionen.
-* Nutzen Sie die Leistung von KI für die Erstellung und autonome Pflege von Inhalten.
-* Schalten Sie die Texterstellung in über 110 Sprachen frei und erweitern Sie Ihre globale Reichweite.
-* Profitieren Sie von skalierbarer Textoptimierung, Aktualisierungen und personalisierter Inhaltsbereitstellung.
-
-## Wie wir uns von der Konkurrenz unterscheiden:
-
-* Im Gegensatz zu anderen Lösungen, die sich auf manuelles Korrekturlesen und Redigieren oder sogar auf rein GPT-generierten Text stützen, kombiniert unser Produkt die Leistungsfähigkeit von NLG mit einem Human-in-the-Loop-Ansatz, der eine überragende Inhaltsqualität gewährleistet.
-* Wir bieten eine optimierte Lösung für die Umwandlung von Daten in Text, die eine effiziente und genaue Umwandlung von Daten in ansprechende Texte gewährleistet.
-* Unser Produkt aktualisiert Inhalte automatisch, so dass keine manuellen Eingriffe erforderlich sind und Informationen in Echtzeit verbreitet werden können.
-* Verabschieden Sie sich davon, mehr Redakteure einzustellen und höhere Übersetzungsbudgets zu verwalten; unsere Lösung minimiert den Bedarf an externen Übersetzern und manuellen Übergaben.
-* Wir ermöglichen die kontinuierliche Bereitstellung von Produktinhalten, so dass Sie mit den dynamischen Marktanforderungen Schritt halten können.
-* Gewinnen Sie die vollständige Kontrolle über Ihre Inhalte und stellen Sie mit unseren umfassenden Content-Management-Funktionen Konsistenz und Compliance sicher.
-
-KI Sprachtec revolutioniert die Art und Weise, wie Unternehmen Inhalte erstellen, verwalten und aktualisieren, und bietet eine unübertroffene Effizienz, Kontrolle und Qualität.
-
-## Was uns einzigartig macht:
-
-* Erzielung interoperabler Produktdaten über die gesamte Wertschöpfungskette hinweg, wodurch die Zusammenarbeit und Effizienz verbessert wird.
-* Sie können konsistente, aktuelle und korrekte Produktdaten und -beschreibungen in großem Umfang sicherstellen und so das Vertrauen und die Zufriedenheit Ihrer Kunden steigern.
-* Sie haben die volle Kontrolle über die Gestaltung Ihrer Texte und können so eine maßgeschneiderte und wirkungsvolle Kommunikation gewährleisten.
-* Verkürzen Sie die Markteinführungszeit für neue Produkte und bleiben Sie der Konkurrenz voraus.
-* Profitieren Sie von Self-Service-Funktionen für mehrsprachige Inhalte in über 100 Sprachen und erweitern Sie so Ihre globale Reichweite.
-* Verwalten Sie Ihren gesamten Content-Workflow und Ihre Content-Produktion nahtlos in einem umfassenden Tool.
-* Profitieren Sie von den exklusiven Vorteilen unserer Plattform zur Inhaltserstellung, die ein automatisiertes Self-Service-Produktmanagement für den Lebenszyklus von Inhalten bietet.
-* Entwerfen Sie Inhalte, die über die Texterstellung hinausgehen, und erstellen Sie layoutete Inhalte wie Produktdetailseiten oder formatierte Berichte.
-* Automatische Aktualisierung und Anpassung von Inhalten für verschiedene Sprachen, Regionen und Kanäle, um ein konsistentes Messaging zu gewährleisten.
-* Nutzen Sie unsere Integration mit Personalisierung und Inhaltsanalyse, um Engagement und Konversionsraten zu maximieren.
-* Verstärken Sie Ihre SEO-Bemühungen mit einzigartigen und optimierten Inhalten und erhöhen Sie Ihre Online-Sichtbarkeit.
-* Nutzen Sie das Fachwissen unseres engagierten Teams und greifen Sie auf unser Ökosystem von Partnern zurück, die Ihr Unternehmen bei der Erreichung seiner Geschäftsziele unterstützen.
-
-Das NLG-Produkt KI Sprachtec von AX Semantics und der Universität Reutlingen bietet eine umfassende Suite von Funktionen und Services, die es Unternehmen ermöglichen, ihre Content-Erstellung, -Verwaltung und -Optimierung zu rationalisieren und sich dadurch von der Konkurrenz abzuheben.
-
-## Geschäftswert freisetzen:
-
-* Skalieren Sie Ihre Inhalts- und Übersetzungsteams durch Automatisierung, anstatt sich auf zusätzliches Personal, externe Agenturen und höhere Kosten zu verlassen.
-* Gewinnen Sie die Kontrolle über Ihre Prozesse und stellen Sie Effizienz, Konsistenz und Compliance sicher.
-* Reduzieren Sie den Aufwand für die Datenverwaltung, den Datenaustausch und die Texterstellung, selbst bei großem Umfang.
-* Profitieren Sie von qualitätsgesicherten Prozessen, minimieren Sie Fehler und steigern Sie die Gesamtproduktivität.
-* Liefern Sie hochwertige, präzise und ansprechende Inhalte, die die Erwartungen Ihrer Kunden erfüllen.
-* Reduzieren Sie die Übersetzungskosten durch optimierte Übersetzungsprozesse und automatisierte Sprachadaptionen.
-* Erzielen Sie eine kürzere Markteinführungszeit für Ihre Produktinhalte und damit einen schnelleren Markteintritt und eine höhere Wettbewerbsfähigkeit.
-* Verbessern Sie die Kundenzufriedenheit durch die Bereitstellung konsistenter, informativer und personalisierter Inhalte.
-* Steigern Sie Ihre Konversionsrate durch die Bereitstellung überzeugender, überzeugender Inhalte, die zum Handeln anregen.
-* Verringern Sie die Rückgabequote, indem Sie umfassende und genaue Produktinformationen anbieten und so die Unsicherheit der Kunden verringern.
-
-KI Sprachtec versetzt Unternehmen in die Lage, durch die Optimierung der Inhaltserstellung, die Rationalisierung von Prozessen, die Steigerung der Qualität und die Verbesserung der Kundenerfahrung einen erheblichen Geschäftswert zu erschließen.
-
-![Werk150](/assets/images/werk150.jpg)
-
+<br>
+<br>
+<br>
 Gefördert durch:
 
-<img src="/assets/logos/bwlogo.jpg" width=250>
-<img src="/assets/logos/investbw_full.png" width=250>
+<center><img src="/assets/logos/bwlogo.jpg" width=250> <img src="/assets/logos/investbw_full.png" width=250>
