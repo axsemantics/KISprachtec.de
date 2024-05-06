@@ -14,7 +14,7 @@ feature_text: |
 
 Die im Projekt entwickelte Software ermöglicht die skalierbare Automatisierung sich wiederholender, kostspieliger Schreibprozesse: Inhalte werden in 110 Sprachen generiert, dynamisch personalisiert und können sich selbstlernend verbessern.
 
-Anwendungsfälle reichen von der automatisierten Betextung von Produktdetailseiten im eCommerce, über die Generierung von Business-Reports, bis hin zu dynamischen Arbeitsanweisungen in Smart-Factories.
+Anwendungsfälle reichen von der automatisierten Betextung von Produktdetailseiten im eCommerce über die Generierung von Business-Reports bis hin zu dynamischen Arbeitsanweisungen in Smart-Factories.
 
 Alle Daten, die strukturiert digitalisiert zu einem Asset vorliegen, können einfach betextet werden. Standards wie die Asset Administration Shell (AAS) sorgen dafür, dass Daten zu jeder Zeit strukturiert vorliegen und damit noch einfacher betextet werden können.
 
@@ -33,7 +33,6 @@ KI Sprachtec erforscht Lösungen für Unternehmen, die sich mit folgenden Heraus
 Probieren Sie den derzeitigen Stand [hier](https://docs.ax-semantics.com/guides/seminar.html#the-basics) aus oder schauen Sie sich [hier]() eine besipielhafte AAS einer physischen Visitenkarte des Werk150 an.
 
 
-# Produktdetailseiten mit geringem Kundennutzen & hohem Aufwand für SUpport
 
 <br>
 <br>
