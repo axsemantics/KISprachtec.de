@@ -16,7 +16,7 @@ Die im Projekt entwickelte Software ermöglicht die skalierbare Automatisierung 
 
 Anwendungsfälle reichen von der automatisierten Betextung von Produktdetailseiten im eCommerce, über die Generierung von Business-Reports, bis hin zu dynamischen Arbeitsanweisungen in Smart-Factories.
 
-Alle Daten, die strukturiert digitalisiert zu einem Asset vorliegen können einfach betextet werden. Standards wie die Asset Administration Shell (AAS) sorgen dafür, dass Daten zu jeder Zeit strukturiert vorliegen und damit noch einfacher betextet werden können
+Alle Daten, die strukturiert digitalisiert zu einem Asset vorliegen können einfach betextet werden. Standards wie die Asset Administration Shell (AAS) sorgen dafür, dass Daten zu jeder Zeit strukturiert vorliegen und damit noch einfacher betextet werden können.
 
 
 ![AAS](assets\images\aas_app_ki_sprachtec.png)
