@@ -16,7 +16,7 @@ Die im Projekt entwickelte Software ermöglicht die skalierbare Automatisierung 
 
 Anwendungsfälle reichen von der automatisierten Betextung von Produktdetailseiten im eCommerce, über die Generierung von Business-Reports, bis hin zu dynamischen Arbeitsanweisungen in Smart-Factories.
 
-Alle Daten, die strukturiert digitalisiert zu einem Asset vorliegen können einfach betextet werden. Standards wie die Asset Administration Shell (AAS) sorgen dafür, dass Daten zu jeder Zeit strukturiert vorliegen und damit noch einfacher betextet werden können.
+Alle Daten, die strukturiert digitalisiert zu einem Asset vorliegen, können einfach betextet werden. Standards wie die Asset Administration Shell (AAS) sorgen dafür, dass Daten zu jeder Zeit strukturiert vorliegen und damit noch einfacher betextet werden können.
 
 
 ![AAS](assets\images\aas_app_ki_sprachtec.png)
@@ -24,13 +24,16 @@ Alle Daten, die strukturiert digitalisiert zu einem Asset vorliegen können einf
 <br>
 ## An wen richtet sich KI Sprachtec?
 
-KI Sprachtec richtet sich an Unternehmen, die sich mit folgenden Herausforderungen konfrontiert sehen:
+KI Sprachtec erforscht Lösungen für Unternehmen, die sich mit folgenden Herausforderungen konfrontiert sehen:
 
 ![AAS](assets\images\herausforderungen_g.png)
 
 
 > KI Sprachtec bietet eine Lösung für diese Herausforderungen und versetzt Unternehmen in die Lage, Prozesse zu rationalisieren, Kosten zu senken, die Kundenzufriedenheit zu verbessern und das Content Management über verschiedene Kanäle zu optimieren.<br>
-Probieren Sie den derzeitigen Stand [hier](https://docs.ax-semantics.com/guides/seminar.html#the-basics) aus.
+Probieren Sie den derzeitigen Stand [hier](https://docs.ax-semantics.com/guides/seminar.html#the-basics) aus oder schauen Sie sich [hier]() eine besipielhafte AAS einer physischen Visitenkarte des Werk150 an.
+
+
+# Produktdetailseiten mit geringem Kundennutzen & hohem Aufwand für SUpport
 
 <br>
 <br>
