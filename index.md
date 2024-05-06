@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Worum geht es?
+title: KI Sprachtec
 feature_text: | 
   ## KI Sprachtec
   eine Kollaboration von [AX Semantics](https://ax-semantics.com) und dem [Werk150](https://www.esb-business-school.de/forschung/wertschoepfungs-und-logistiksysteme/werk150) der ESB Business School
@@ -10,7 +10,7 @@ feature_text: |
 ---
 
 
-> KI Sprachtec ist ein Forschungsprojekt zur technologischen Weiterentwicklung der KI-basierten, skalierbaren und automatisierten Erstellung von Texten aus strukturierten Daten.
+> Worum geht es? - KI Sprachtec ist ein Forschungsprojekt zur technologischen Weiterentwicklung der KI-basierten, skalierbaren und automatisierten Erstellung von Texten aus strukturierten Daten.
 
 Die im Projekt entwickelte Software ermöglicht die skalierbare Automatisierung sich wiederholender, kostspieliger Schreibprozesse: Inhalte werden in 110 Sprachen generiert, dynamisch personalisiert und können sich selbstlernend verbessern.
 
