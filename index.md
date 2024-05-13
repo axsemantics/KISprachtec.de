@@ -34,7 +34,7 @@ Probieren Sie den derzeitigen Stand [hier](https://docs.ax-semantics.com/guides/
 
 <br>
 ## KI Sprachtec in der Praxis
-Die Lösungen in KI Sprachtec wurden in enger Zusammenarbeit mit Unternehmen aus verschiedenen Branchen und deren spezifischen Anwenungsfällen validiert. Dafür konnten bereits mehrere Leuchtturm-Projekte abgeschlossen werden, die Fragestellungen hinsichtlich einer ganzheitlichen Integration der entwickelten Lösung in die Unternehmensprozesse behandelt haben.
+Die Lösungen in KI Sprachtec wurden in enger Zusammenarbeit mit Unternehmen aus verschiedenen Branchen und deren spezifischen Anwendungsfällen validiert. Dafür konnten bereits mehrere Leuchtturm-Projekte abgeschlossen werden, die Fragestellungen hinsichtlich einer ganzheitlichen Integration der entwickelten Lösung in die Unternehmensprozesse behandelt haben.
 
 
 ##### Dynamisch automatisierte Texte im Produktlebenszyklus
@@ -44,7 +44,7 @@ Die Lösungen in KI Sprachtec wurden in enger Zusammenarbeit mit Unternehmen aus
 > Zusammen mit einem süddeutschen Metallhandelsunternehmen konnten die entwickelten Lösungen erfolgreich zur automatisierten Erstellung von Angeboten eingesetzt werden. Dafür wurden schriftliche Angebotsanfragen mithilfe von Large Language Models (LLM) ausgewertet, mit dem Produktkatalog abgeglichen und basierend auf den Ergebnissen passgenaue Angebotstexte automatisiert generiert. Wichtig dabei war dabei, dass die entwickelten Lösungen halluzinationsfreie Texte generieren, damit kein falsches Angebot abgegeben wird.
 
 ##### Automatisierte Strukturierung von unstrukturierten Daten
-> Mit einer Apotheke aus Nordrhein-Westfalen, die Filial- und Online-Handel betreibt, wurde untersucht, wie unstrukturiert vorliegende Produktdaten (z.B. Fließtext auf Webseiten) (teil-) automatisiert in ein strukturiertes Format überführt werden können. Diese Strukturierung der Daten bietet die Grundlage für die effiziente Betextung von Produkten mehrerer varientenreicher Produktkategorien.
+> Mit einer Apotheke aus Nordrhein-Westfalen, die Filial- und Online-Handel betreibt, wurde untersucht, wie unstrukturiert vorliegende Produktdaten (z.B. Fließtext auf Webseiten) (teil-) automatisiert in ein strukturiertes Format überführt werden können. Diese Strukturierung der Daten bietet die Grundlage für die effiziente Betextung von Produkten mehrerer variantenreicher Produktkategorien.
 
 Wir freuen uns, dass die innerhalb von KI Sprachtec entwickelten Lösungen bereits während der Projektlaufzeit erfolgreich für echte Anwendungsfälle eingesetzt werden konnten und sind gespannt auf die vielen weiteren Anwendungsfälle nach dem Go-live der Software. Selbstverständlich haben wir auch schon die nächsten Ideen zur Weiterentwicklung der NLG Cloud! 
 
