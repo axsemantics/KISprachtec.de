@@ -26,7 +26,7 @@ Alle Daten, die strukturiert digitalisiert zu einem Asset vorliegen, können ein
 
 KI Sprachtec erforscht Lösungen für Unternehmen, die sich mit folgenden Herausforderungen konfrontiert sehen:
 
-![AAS](assets\images\herausforderungen_g.png)
+![AAS](assets\images\herausforderungen_g.svg)
 
 
 > KI Sprachtec bietet Lösungen für diese Herausforderungen und versetzt Unternehmen in die Lage, Prozesse zu rationalisieren, Kosten zu senken, die Kundenzufriedenheit zu verbessern und das Content Management über verschiedene Kanäle zu optimieren.<br>
