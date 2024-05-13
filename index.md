@@ -30,7 +30,7 @@ KI Sprachtec erforscht Lösungen für Unternehmen, die sich mit folgenden Heraus
 
 
 > KI Sprachtec bietet Lösungen für diese Herausforderungen und versetzt Unternehmen in die Lage, Prozesse zu rationalisieren, Kosten zu senken, die Kundenzufriedenheit zu verbessern und das Content Management über verschiedene Kanäle zu optimieren.<br>
-Probieren Sie den derzeitigen Stand [hier](https://docs.ax-semantics.com/guides/seminar.html#the-basics) aus oder schauen Sie sich [hier]() eine beispielhafte AAS einer physischen Visitenkarte des Werk150 an.
+Probieren Sie den derzeitigen Stand [hier](https://docs.ax-semantics.com/guides/seminar.html#the-basics) aus oder schauen Sie sich [hier](http://40.113.168.165:8099/card/9BC78A) eine beispielhafte AAS einer physischen Visitenkarte des Werk150 an.
 
 <br>
 ## KI Sprachtec in der Praxis
