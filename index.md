@@ -29,10 +29,24 @@ KI Sprachtec erforscht Lösungen für Unternehmen, die sich mit folgenden Heraus
 ![AAS](assets\images\herausforderungen_g.png)
 
 
-> KI Sprachtec bietet eine Lösung für diese Herausforderungen und versetzt Unternehmen in die Lage, Prozesse zu rationalisieren, Kosten zu senken, die Kundenzufriedenheit zu verbessern und das Content Management über verschiedene Kanäle zu optimieren.<br>
-Probieren Sie den derzeitigen Stand [hier](https://docs.ax-semantics.com/guides/seminar.html#the-basics) aus oder schauen Sie sich [hier]() eine besipielhafte AAS einer physischen Visitenkarte des Werk150 an.
+> KI Sprachtec bietet Lösungen für diese Herausforderungen und versetzt Unternehmen in die Lage, Prozesse zu rationalisieren, Kosten zu senken, die Kundenzufriedenheit zu verbessern und das Content Management über verschiedene Kanäle zu optimieren.<br>
+Probieren Sie den derzeitigen Stand [hier](https://docs.ax-semantics.com/guides/seminar.html#the-basics) aus oder schauen Sie sich [hier]() eine beispielhafte AAS einer physischen Visitenkarte des Werk150 an.
+
+<br>
+## KI Sprachtec in der Praxis
+Die Lösungen in KI Sprachtec wurden in enger Zusammenarbeit mit Unternehmen aus verschiedenen Branchen und deren spezifischen Anwenungsfällen validiert. Dafür konnten bereits mehrere Leuchtturm-Projekte abgeschlossen werden, die Fragestellungen hinsichtlich einer ganzheitlichen Integration der entwickelten Lösung in die Unternehmensprozesse behandelt haben.
 
 
+##### Dynamisch automatisierte Texte im Produktlebenszyklus
+> In Zusammenarbeit mit einem Online-Retailer für Fahrräder wurde untersucht, wie eine dynamische Betextung über den Lebenszyklus eines Produkts realisiert werden kann. Dafür wurde die AAS genutzt, um Produktdaten strukturiert über gesamten Produktlebenszyklus abzubilden und den Datenaustausch sowie Änderungen an den Daten über mehrere Stakeholder hinweg interoperabel zu gestalten. Mit dieser Datenbasis konnten zu Anlässen wie dem Erreichen der Verschleißgrenze der Bremsen oder zur Erstellung von Produktpässen beim Weiterverkauf auf dem Gebrauchtmarkt Texte automatisiert und zielgruppengerecht generiert werden.
+
+##### Automatisierte Erstellung von Angeboten
+> Zusammen mit einem süddeutschen Metallhandelsunternehmen konnten die entwickelten Lösungen erfolgreich zur automatisierten Erstellung von Angeboten eingesetzt werden. Dafür wurden schriftliche Angebotsanfragen mithilfe von Large Language Models (LLM) ausgewertet, mit dem Produktkatalog abgeglichen und basierend auf den Ergebnissen passgenaue Angebotstexte automatisiert generiert. Wichtig dabei war dabei, dass die entwickelten Lösungen halluzinationsfreie Texte generieren, damit kein falsches Angebot abgegeben wird.
+
+##### Automatisierte Strukturierung von unstrukturierten Daten
+> Mit einer Apotheke aus Nordrhein-Westfalen, die Filial- und Online-Handel betreibt, wurde untersucht, wie unstrukturiert vorliegende Produktdaten (z.B. Fließtext auf Webseiten) (teil-) automatisiert in ein strukturiertes Format überführt werden können. Diese Strukturierung der Daten bietet die Grundlage für die effiziente Betextung von Produkten mehrerer varientenreicher Produktkategorien.
+
+Wir freuen uns, dass die innerhalb von KI Sprachtec entwickelten Lösungen bereits während der Projektlaufzeit erfolgreich für echte Anwendungsfälle eingesetzt werden konnten und sind gespannt auf die vielen weiteren Anwendungsfälle nach dem Go-live der Software. Selbstverständlich haben wir auch schon die nächsten Ideen zur Weiterentwicklung der NLG Cloud! 
 
 <br>
 <br>
