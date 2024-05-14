@@ -19,14 +19,14 @@ Anwendungsfälle reichen von der automatisierten Betextung von Produktdetailseit
 Alle Daten, die strukturiert digitalisiert zu einem Asset vorliegen, können einfach betextet werden. Standards wie die Asset Administration Shell (AAS) sorgen dafür, dass Daten zu jeder Zeit strukturiert vorliegen und damit noch einfacher betextet werden können.
 
 
-![AAS](assets\images\aas_app_ki_sprachtec.png)
+![Die Grafik illustriert, wie die Asset Administration Shell Prozesse, Machinen und Produkte digital abbildet und damit eine einfachere Betextung ermöglicht.](assets\images\aas_app_ki_sprachtec.png)
 
 <br>
 ## An wen richtet sich KI Sprachtec?
 
 KI Sprachtec erforscht Lösungen für Unternehmen, die sich mit folgenden Herausforderungen konfrontiert sehen:
 
-![AAS](assets\images\herausforderungen_g.svg)
+![Die Grafik illustriert die Herausforderungen, die mit den im Projekt entwickelten Lösungen bewältigt werden könne.](assets\images\herausforderungen_g.svg)
 
 
 > KI Sprachtec bietet Lösungen für diese Herausforderungen und versetzt Unternehmen in die Lage, Prozesse zu rationalisieren, Kosten zu senken, die Kundenzufriedenheit zu verbessern und das Content Management über verschiedene Kanäle zu optimieren.<br>
