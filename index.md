@@ -16,21 +16,21 @@ Die im Projekt entwickelte Software ermöglicht die skalierbare Automatisierung 
 
 Anwendungsfälle reichen von der automatisierten Betextung von Produktdetailseiten im eCommerce über die Generierung von Business-Reports bis hin zu dynamischen Arbeitsanweisungen in Smart-Factories.
 
-Alle Daten, die strukturiert digitalisiert zu einem Asset vorliegen, können einfach betextet werden. Standards wie die Asset Administration Shell (AAS) sorgen dafür, dass Daten zu jeder Zeit strukturiert vorliegen und damit noch einfacher betextet werden können.
+Alle Daten, die strukturiert digitalisiert zu einem Asset vorliegen, können einfach betextet werden. Standards wie die Asset Administration Shell (AAS) sorgen dafür, dass Daten zu jeder Zeit strukturiert vorliegen und damit noch einfacher betextet werden können. [Hier](http://40.113.168.165:8099/card/9BC78A "Der Link führt zu einem Demonstrator, der zeigt, wie die Asset Administration Shell genutzt werden kann um eine Visitenkarte des Werk150 digital abzubilden") ein Beispiel, wie die AAS verwendet werden kann, um eine physische Visitenkarte des Werk150 strukturiert digital abzubilden.
 
 
-![AAS](assets\images\aas_app_ki_sprachtec.png)
+![Die Grafik illustriert, wie die Asset Administration Shell Prozesse, Machinen und Produkte digital abbildet und damit eine einfachere Betextung ermöglicht.](assets\images\aas_app_ki_sprachtec.png)
 
 <br>
 ## An wen richtet sich KI Sprachtec?
 
 KI Sprachtec erforscht Lösungen für Unternehmen, die sich mit folgenden Herausforderungen konfrontiert sehen:
 
-![AAS](assets\images\herausforderungen_g.svg)
+![Die Grafik illustriert Herausforderungen, die mit den im Projekt entwickelten Lösungen bewältigt werden können.](assets\images\herausforderungen_g.svg)
 
 
-> KI Sprachtec bietet Lösungen für diese Herausforderungen und versetzt Unternehmen in die Lage, Prozesse zu rationalisieren, Kosten zu senken, die Kundenzufriedenheit zu verbessern und das Content Management über verschiedene Kanäle zu optimieren.<br>
-Probieren Sie den derzeitigen Stand [hier](https://docs.ax-semantics.com/guides/seminar.html#the-basics) aus oder schauen Sie sich [hier](http://40.113.168.165:8099/card/9BC78A) eine beispielhafte AAS einer physischen Visitenkarte des Werk150 an.
+> KI Sprachtec bietet Lösungen für diese Herausforderungen und versetzt Unternehmen in die Lage, Prozesse zu rationalisieren, Kosten zu senken, die Kundenzufriedenheit zu verbessern und das Content Management über verschiedene Kanäle zu optimieren.
+Probieren Sie den aktuellen Stand [hier](https://docs.ax-semantics.com/guides/seminar.html#the-basics "Der Link führt zu einem interaktiven Guide, der die Nutzung der NLG Cloud vorstellt") aus.
 
 <br>
 ## KI Sprachtec in der Praxis
