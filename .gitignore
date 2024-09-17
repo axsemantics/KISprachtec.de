@@ -1,3 +1,4 @@
 _site/
 *.code-workspace
 Gemfile.lock
+node_modules
