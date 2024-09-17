@@ -1,6 +1,7 @@
-# TEST
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-<<<<<<< HEAD
 title: KI Sprachtec
 feature_text: | 
   ## KI Sprachtec
@@ -53,6 +54,3 @@ Wir freuen uns, dass die innerhalb von KI Sprachtec entwickelten Lösungen berei
 Gefördert durch:
 
 <center><img src="/assets/logos/bwlogo.jpg" width=250> <img src="/assets/logos/investbw_full.png" width=250>
-=======
-> This is my test page
->>>>>>> main
