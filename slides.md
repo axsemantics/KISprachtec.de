@@ -1,12 +1,16 @@
-# Markdown Demo
+# KI Sprachtec
+eine Kollaboration von [AX Semantics](https://ax-semantics.com) und dem [Werk150](https://www.esb-business-school.de/forschung/wertschoepfungs-und-logistiksysteme/werk150) der ESB Business School
+
+Gefördert durch:
+
+<center><img src="/assets/logos/bwlogo.jpg" width=250> <img src="/assets/logos/investbw_full.png" width=250>
 
 
 
-## External 1.1
+#
+KI Sprachtec erforscht die Weiterentwicklung der KI-basierten, skalierbaren und Textautomatisierung aus strukturierten Daten.
 
-Content 1.1
 
-Note: This will only appear in the speaker notes window.
 
 
 ## External 1.2
