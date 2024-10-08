@@ -42,14 +42,14 @@ der ESB Business School
 <span style="margin: 0;">Die zentralen technologischen Entwicklungen in KI Sprachtec:</span>
 <section>
   <div style="display: flex; justify-content: space-between; gap: 20px;">
-    <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5);">
-      <p style="font-size: 24px; margin: 0;">KI-unterst&uuml;tzte automatisierte Texterstellung und -optimierung ohne Halluzinationen</p>
+    <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
+      <p style="font-size: 24px; margin: 0; text-align: center;">KI-unterst&uuml;tzte automatisierte Texterstellung und -optimierung ohne Halluzinationen</p>
     </div>
-    <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5);">
-      <p style="font-size: 24px; margin: 0;">Automatisierte Textgenerierung in 110 Sprachen</p>
+    <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
+      <p style="font-size: 24px; margin: 0; text-align: center;">Automatisierte Textgenerierung in 110 Sprachen</p>
     </div>
-    <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5);">
-      <p style="font-size: 24px; margin: 0;">Messung der Textwirkung mit Feedbackschleifen in die Texterstellung und -optimierung</p>
+    <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
+      <p style="font-size: 24px; margin: 0; text-align: center;">Messung der Textwirkung mit Feedbackschleifen in die Texterstellung und -optimierung</p>
     </div>
   </div>
 </section>
@@ -60,17 +60,18 @@ der ESB Business School
 <span style="margin: 0;">KI Sprachtec erfordert ein Neudenken des Schreibprozesses:</span>
 <section>
   <div style="display: flex; justify-content: space-between; gap: 20px;">
-    <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5);">
-      <p style="font-size: 24px; margin: 0;">Optimierung des Texterstellungs-prozesses und der Datenaufbereitung</p>
+    <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
+      <p style="font-size: 24px; margin: 0;">Optimierte Prozesse für automatisierte Texterstellung und Datenmanagement</p>
     </div>
-    <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5);">
+    <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
       <p style="font-size: 24px; margin: 0;">E-Learning-Kurse zur notwendigen Transformation von Datenmanagement und automatisierter Texterstellung</p>
     </div>
-    <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5);">
+    <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
       <p style="font-size: 24px; margin: 0;">Leuchtturm-Implementierungen der entwickelten L&ouml;sungen in realen Umsetzungsprojekten</p>
     </div>
   </div>
 </section>
+
 
 
 
@@ -79,20 +80,22 @@ der ESB Business School
 
 <section style="margin-top: 30px;">
   <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
-    <div style="padding: 30px; background-color: rgba(211, 211, 211, 0.5);">
+    <div style="padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
       <p style="font-size: 24px; margin: 0;">Vielen Unternehmen fehlt ein strukturiertes Datenmanagement, um KI effektiv einzusetzen</p>
     </div>
-    <div style="padding: 30px; background-color: rgba(211, 211, 211, 0.5);">
-      <p style="font-size: 24px; margin: 0;">Optimierung der Kreislaufwirtschaft am Ende jedes Nutzungszyklusses</p>
+    <div style="padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
+      <p style="font-size: 24px; margin: 0;">Eine Optimierung der Kreislaufwirtschaft am Ende jedes Nutzungszyklusses ist ohne sutrukturiertes Datenmanagent nicht m&ouml;glich</p>
     </div>
-    <div style="padding: 30px; background-color: rgba(211, 211, 211, 0.5);">
+    <div style="padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
+      <p style="font-size: 24px; margin: 0;">Die Integration von Produktdaten, Zusammensetzung von Produkten, Herkunft einzelner Komponenten und spezifische Produkteigenschaften ist von zentraler Bedeutung für den effektive Einsatz von KI</p>
+    </div>
+    <div style="padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
       <p style="font-size: 24px; margin: 0;">Der Digitale Produktpass (DPP) und Standards wie die Asset Administration Shell (AAS) erm&ouml;glichen, Produktdaten strukturiert und interoperabel &uuml;ber den gesamten Produktlebenszyklus zu verwalten</p>
     </div>
-    <div style="padding: 30px; background-color: rgba(211, 211, 211, 0.5);">
-      <p style="font-size: 24px; margin: 0;">Die Integration von Produktdaten, Zusammensetzung von Produkten, Herkunft einzelner Komponenten und spezifische Produkteigenschaften ist von zentraler Bedeutung</p>
-    </div>
+
   </div>
 </section>
+
 
 
 
