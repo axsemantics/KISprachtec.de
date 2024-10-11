@@ -1,4 +1,4 @@
-## KISprachtec
+## KI Sprachtec
 
 Ein Forschungsprojekt zur Weiterentwicklung der KI-basierten, skalierbaren und halluzinationsfreien Textautomatisierung aus strukturierten Daten.
 
@@ -61,7 +61,7 @@ der ESB Business School
 <section>
   <div style="display: flex; justify-content: space-between; gap: 20px;">
     <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
-      <p style="font-size: 24px; margin: 0;">Optimierte Prozesse für automatisierte Texterstellung und Datenmanagement</p>
+      <p style="font-size: 24px; margin: 0;">Optimierte Prozesse f&uuml;r automatisierte Texterstellung und Datenmanagement</p>
     </div>
     <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
       <p style="font-size: 24px; margin: 0;">E-Learning-Kurse zur notwendigen Transformation von Datenmanagement und automatisierter Texterstellung</p>
