@@ -4,9 +4,9 @@ Ein Forschungsprojekt zur Weiterentwicklung der KI-basierten, skalierbaren und h
 
 <br>
 <p style="font-size: 18px;">Gef&ouml;rdert durch:</p>
-<center><img src="/assets/logos/bwlogo.jpg" width=150> <img src="/assets/logos/investbw_full.png" width=150>
+<center><img src="/assets/logos/bwlogo.jpg" width=180> <img src="/assets/logos/investbw_full.png" width=180>
 
-<p style="font-size: 14px;">Nutzen Sie die Pfeiltasten Ihrer Tastatur zur Navigation.</p>
+<p style="font-size: 14px;"><em>Nutzen Sie die Pfeiltasten Ihrer Tastatur zur Navigation.</em></p>
 
 
 
