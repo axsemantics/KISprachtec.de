@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>KISprachtec Demonstrator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+<div id="container">
+    <div id="json-container">
+        <div id="json-display"></div>
+    </div>
+    
+    <div id="text-container">
+        <div id="language-buttons">
+            <button data-lang="DE">DE</button>
+            <button data-lang="EN">EN</button>
+            <button data-lang="FR">FR</button>
+        </div>
+        
+        <div id="text-display">
+        </div>
+        <div id="tooltip-toggle">
+            <label>
+                <input type="checkbox" id="toggle-tooltips" checked>
+                Show Tooltips
+            </label>
+        </div>
+    </div>
+    
+    <svg id="svg-overlay"></svg>
+    
+    <div id="tooltip" class="tooltip"></div>
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
