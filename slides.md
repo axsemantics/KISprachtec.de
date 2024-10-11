@@ -1,13 +1,13 @@
-## KI Sprachtec
+## KISprachtec
 
 Ein Forschungsprojekt zur Weiterentwicklung der KI-basierten, skalierbaren und halluzinationsfreien Textautomatisierung aus strukturierten Daten.
 
 <br>
 <p style="font-size: 18px;">Gef&ouml;rdert durch:</p>
 <center><img src="/assets/logos/bwlogo.jpg" width=150> <img src="/assets/logos/investbw_full.png" width=150>
-<!---
+
 <p style="font-size: 14px;">Nutzen Sie die Pfeiltasten Ihrer Tastatur zur Navigation.</p>
--->
+
 
 
 
