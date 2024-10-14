@@ -46,8 +46,22 @@ Anwendungsfälle reichen von der automatisierten Betextung von Produktdetailseit
 
 
 
-<span style="background-color: rgba(0, 139, 0, 0.5);">Ergebnisse KI:</span> 
-<span style="margin: 0;">Die zentralen technologischen Entwicklungen in KI Sprachtec:</span>
+<span style="background-color: rgba(0, 139, 0, 0.5);">Ergebnisse Technologieentwicklung:</span> Die technologischen Ergebnisse in KI Sprachtec ermöglichen eine Skalierbarkeit der Textautomatierung, die mit Lösung wie ChatGPT allein nicht möglich ist.
+
+- **KI-unterstützte automatisierte Texterstellung ohne Halluzinationen**:
+   Durch die Synergie aus KI, speziellen Regelwerken und einem neuen Human-in-the-Loop-Ansatz können Texte für viele Tausend Produktvarianten automatisiert generiert werden, ohne dass die erstellten Texte kontrolliert werden müssen. Die Automatisierung skaliert also, ohne dass die menschliche Arbeit mit skalieren muss. Damit setzt sich „KI Sprachtec“ deutlich von halluzinationsanfälligen Lösungen wie ChatGPT ab.
+
+- **Automatisierte Übersetzung in bis zu 110 Sprachen**:
+   Dank eigens entwickelter, auf Grammatik spezialisierter neuronaler Netzwerke muss eine Übersetzung nur einmal auf Ebene der Regelwerke erfolgen, und schon können Tausende von Übersetzungen automatisiert werden, ohne die generierten Texte kontrollieren zu müssen.
+
+- **Dynamisierung personalisierter Inhalte und selbstlernende Texte**:
+   Durch eine Erfolgsmessung der generierten Texte können die erhobenen Daten in Feedbackschleifen in die automatisierte Textproduktion zurückgefürt werden. Damit können die Texte laufend verbessert werden.
+
+
+
+<!---
+<span style="background-color: rgba(0, 139, 0, 0.5);">Ergebnisse Technologieentwicklung:</span> 
+<span style="margin: 0;">Die zentralen technologischen Ergebnisse in KI Sprachtec </span>
 <section>
   <div style="display: flex; justify-content: space-between; gap: 20px;">
     <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
@@ -61,10 +75,10 @@ Anwendungsfälle reichen von der automatisierten Betextung von Produktdetailseit
     </div>
   </div>
 </section>
+-->
 
 
-
-<span style="background-color: rgba(0, 139, 0, 0.5);">Ergebnisse Prozesse:</span> 
+<span style="background-color: rgba(0, 139, 0, 0.5);">Ergebnisse Marktforschung:</span> 
 <span style="margin: 0;">KI Sprachtec erfordert ein Neudenken des Schreibprozesses.</span>
 <section>
   <div style="display: flex; justify-content: space-between; gap: 20px;">
@@ -103,3 +117,4 @@ Anwendungsfälle reichen von der automatisierten Betextung von Produktdetailseit
 
   </div>
 </section>
+
