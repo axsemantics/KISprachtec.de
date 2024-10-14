@@ -1,6 +1,6 @@
 ## KI Sprachtec
 
-Ein Forschungsprojekt zur Weiterentwicklung der KI-basierten, skalierbaren und halluzinationsfreien Textautomatisierung aus strukturierten Daten.
+Forschung zur Weiterentwicklung der KI-basierten, skalierbaren und halluzinationsfreien Textautomatisierung aus strukturierten Daten.
 
 <br>
 <p style="font-size: 18px;">Gef&ouml;rdert durch:</p>
@@ -13,13 +13,13 @@ Ein Forschungsprojekt zur Weiterentwicklung der KI-basierten, skalierbaren und h
 
 Eine Kollaboration von 
 <a href="https://ax-semantics.com" target="_blank" style="vertical-align: bottom;">
-  <img src="assets/logos/AXS_Logo_full_RGB_300dpi.png" style="height: 55px; vertical-align: bottom; margin-bottom: 15px;" alt="AX Semantics Logo">
+  <img src="assets/logos/AXS_Logo_full_RGB_300dpi.png" style="height: 55px; vertical-align: bottom; margin-bottom: 7px;" alt="AX Semantics Logo">
 </a> 
 und dem
 <a href="https://www.esb-business-school.de/forschung/wertschoepfungs-und-logistiksysteme/werk150" target="_blank" style="vertical-align: bottom;">
-  <img src="assets/logos/werk150_full.png" style="height: 40px; vertical-align: bottom; margin-bottom: 12px;" alt="Werk150 Logo">
+  <img src="assets/logos/werk150_full.png" style="height: 40px; vertical-align: bottom; margin-bottom: 5px;" alt="Werk150 Logo">
 </a>
-der ESB Business School
+der Hochschule Reutlingen
 <!---
 <center>
   <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
@@ -57,7 +57,7 @@ der ESB Business School
 
 
 <span style="background-color: rgba(0, 139, 0, 0.5);">Ergebnisse Prozesse:</span> 
-<span style="margin: 0;">KI Sprachtec erfordert ein Neudenken des Schreibprozesses:</span>
+<span style="margin: 0;">KI Sprachtec erfordert ein Neudenken des Schreibprozesses.</span>
 <section>
   <div style="display: flex; justify-content: space-between; gap: 20px;">
     <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
