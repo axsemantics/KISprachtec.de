@@ -34,7 +34,15 @@ der Hochschule Reutlingen
 
 
 
-<span style="background-color: rgba(248,156,12, 0.7);">Projektziel:</span> Die Weiterentwicklung von KI-basierten Sprachtechnologien zur automatisierten Texterstellung, mehrsprachigen &Uuml;bersetzung, Dynamisierung der Inhalte und selbstlernenden Textoptimierung.
+<span style="background-color: rgba(248,156,12, 0.7);">Projektziel:</span> Entwicklung KI-basierter Sprachtechnologien, die die bestehenden Möglichkeiten automatisierter Texterstellung innovativ weiterentwickeln. 
+
+- **Weiterentwicklung der KI-basierten automatisierten Texterstellung und -Übersetzung**:  
+   Entwicklung einer Lösung, die in der Lage ist, aus strukturierten Daten skalierbar und automatisiert hochwertige Texte zu generieren und in über 110 Sprachen zu übersetzen, um repetitive und kostenintensive Schreibaufgaben effizient zu erledigen.
+
+- **Dynamische Personalisierung und selbstlernende Texte**:  
+   Implementierung dynamischer Personalisierung von Inhalten und automatisierter Erfolgsmessung der Texte, sodass Inhalte individuell auf Zielgruppen und Anwendungsfälle angepasst und optimiert werden können.
+
+Anwendungsfälle reichen von der automatisierten Betextung von Produktdetailseiten im eCommerce über die Generierung von Business-Reports bis hin zu dynamischen Arbeitsanweisungen in Smart-Factories.
 
 
 
