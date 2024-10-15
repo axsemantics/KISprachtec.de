@@ -55,8 +55,21 @@ Anwendungsfälle reichen von der automatisierten Betextung von Produktdetailseit
    Dank eigens entwickelter, auf Grammatik spezialisierter neuronaler Netzwerke muss eine Übersetzung nur einmal auf Ebene der Regelwerke erfolgen, und schon können Tausende von Übersetzungen automatisiert werden, ohne die generierten Texte kontrollieren zu müssen.
 
 - **Dynamisierung personalisierter Inhalte und selbstlernende Texte**:
-   Durch eine Erfolgsmessung der generierten Texte können die erhobenen Daten in Feedbackschleifen in die automatisierte Textproduktion zurückgefürt werden. Damit können die Texte laufend verbessert werden.
+   Durch eine Erfolgsmessung der generierten Texte können die erhobenen Daten in Feedbackschleifen in die automatisierte Textproduktion zurückgeführt werden. Damit können die Texte laufend verbessert werden.
 
+
+
+<span style="background-color: rgba(0, 139, 0, 0.5);">Ergebnisse Marktforschung:</span> Während des Projekts wurde intensiv Marktforschung betrieben und deren Ergebnisse laufend in die technologische Entwicklung integriert.
+
+Aus der Marktforschung wurden die folgenden Artefakte gewonnen:
+- **Optimierte Prozesse für automatisierte Texterstellung und Datenmanagement**:
+   Die entwickelten Technologien erfordern ein Neudenken der bisherigen Schreib- und Redaktionsprozesse, um das Effizientspotenzial voll auszunutzen. Dabei muss auch das Datenmanagement berücksichtigt werden.
+
+- **E-Learning zur notwendigen Transformation von Textautomatisierung und Datenmanagement**:
+   Die optimierten Prozesse wurden in E-Learning Materialien überführt, die die Transformation des Schreib- und Redaktionsprozesse von den Rohdaten, über die Text-Konzeption, Text-Composition, Text-Generierung & -Übersetzung, bis hin zur Text Dynamisierung & Optimierung begleitet.
+
+- **Leuchtturm-Implementierungen der entwickelten Lösungen in realen Umsetzungsprojekten**:
+   Während des Projekts wurden mehrere erfolgreiche Leuchtturm-Projekte durchgeführt, um die entwickelten Lösungen im realen Umfeld und unter verschiedenen Bedingungen zu testen. Die gesammelten Erfahrungen konnten sowohl in die technologischen Entwicklung als auch in die Prozessoptimierung und E-Learning Materialien überführt werden.
 
 
 <!---
@@ -77,26 +90,7 @@ Anwendungsfälle reichen von der automatisierten Betextung von Produktdetailseit
 </section>
 -->
 
-
-<span style="background-color: rgba(0, 139, 0, 0.5);">Ergebnisse Marktforschung:</span> 
-<span style="margin: 0;">KI Sprachtec erfordert ein Neudenken des Schreibprozesses.</span>
-<section>
-  <div style="display: flex; justify-content: space-between; gap: 20px;">
-    <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
-      <p style="font-size: 24px; margin: 0;">Optimierte Prozesse f&uuml;r automatisierte Texterstellung und Datenmanagement</p>
-    </div>
-    <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
-      <p style="font-size: 24px; margin: 0;">E-Learning-Kurse zur notwendigen Transformation von Datenmanagement und automatisierter Texterstellung</p>
-    </div>
-    <div style="flex: 1; padding: 30px; background-color: rgba(211, 211, 211, 0.5); display: flex; align-items: center; justify-content: center;">
-      <p style="font-size: 24px; margin: 0;">Leuchtturm-Implementierungen der entwickelten L&ouml;sungen in realen Umsetzungsprojekten</p>
-    </div>
-  </div>
-</section>
-
-
-
-
+<!---
 <span style="background-color: rgba(0, 139, 0, 0.5);">Ergebnisse Daten:</span> 
 <span style="margin: 0;">Gute Daten sind die Grundlage f&uuml;r gute Texte!</span>
 
@@ -117,4 +111,4 @@ Anwendungsfälle reichen von der automatisierten Betextung von Produktdetailseit
 
   </div>
 </section>
-
+-->
