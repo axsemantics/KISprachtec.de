@@ -10,7 +10,6 @@ Forschung zur Weiterentwicklung der KI-basierten, skalierbaren und halluzination
 
 
 
-
 Eine Kollaboration von 
 <a href="https://ax-semantics.com" target="_blank" style="vertical-align: bottom;">
   <img src="assets/logos/AXS_Logo_full_RGB_300dpi.png" style="height: 55px; vertical-align: bottom; margin-bottom: 7px; margin-right: 15px; margin-left: 10px;" alt="AX Semantics Logo">
@@ -20,15 +19,6 @@ und dem
   <img src="assets/logos/werk150_full.png" style="height: 40px; vertical-align: bottom; margin-bottom: 4px; margin-right: 15px; margin-left: 15px;" alt="Werk150 Logo">
 </a>
 der Hochschule Reutlingen
-
-<!---
-<center>
-  <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-    <img src="assets/logos/AXS_Logo_full_RGB_300dpi.png" style="height: 60px;">
-    <img src="assets/logos/werk150_full.png" style="height: 60px;">
-  </div>
-</center>
--->
 
 <br>
 <p style="font-size: 18px;">Projektlaufzeit: 08/2022 &mdash; 12/2024</p>
