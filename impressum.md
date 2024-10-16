@@ -10,5 +10,4 @@ PHONE: +49 711 699 486-0 <br>
 E-MAIL: info@ax-semantics.com<br><br>
 VAT ID: DE261230571<br><br>
 Managing Directors: Saim Rolf Alkan, Robert Wei&szlig;graeber<br><br>
-Court of Registration: AG Stuttgart, HRB 727319<br>
-</p>
+Court of Registration: AG Stuttgart, HRB 727319<br></p>
