@@ -1,50 +1,60 @@
 <!doctype html>
 <html lang="en">
+
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-	
-	<title>KISprachtec</title>
-	
+
+	<title>KISprachtec.de</title>
+
 	<link rel="stylesheet" href="dist/reset.css">
 	<link rel="stylesheet" href="dist/reveal.css">
-	<link rel="stylesheet" href="dist/theme/black.css">
-	
+	<link rel="stylesheet" href="dist/theme/white.css">
+
 	<!-- Theme used for syntax highlighted code -->
 	<link rel="stylesheet" href="plugin/highlight/monokai.css">
 </head>
+
 <body>
 	<div class="reveal">
 		<div class="slides">
-			<section
-				data-markdown="slides.md"
-				data-separator="^\n\n\n"
-				data-separator-vertical="^\n\n"
-				data-separator-notes="^Note:"
-				data-charset="utf-8"
-			>
+			<section data-markdown="slides.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"
+				data-separator-notes="^Note:" data-charset="utf-8"></section>
+			<section>
+				<h2>Data-to-Text Demonstrator</h2>
+				<p style="text-align: justify;">Lösungen wie die Asset Administration Shell (AAS) ermöglichen einen standardisiert strukturierten digitalen Produkt-Zwilling (exemplarisch in der linke Spalte dargestellt). Diese Datengrundlage ermöglicht die Generierung präziser Texte, die mit den Daten der AAS stets aktualisiert werden können. Der Demonstrator zeigt, wie strukturierte Produktdaten mit den generierten Texten zusammenhängen. Bewegen Sie Ihre Maus über die blau hervorgehobenen Datenpunkte, um unterschiedliche Verwertungsmöglichkeiten im generierten Text anzuzeigen.</p>
+
+				<iframe src="demonstrator/demonstrator.html" width="100%" height="600px" style="border:none;"></iframe>
+			</section>
+			<section data-markdown="presse.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"
+				data-separator-notes="^Note:" data-charset="utf-8"></section>
+			<section> 
+				<section data-markdown="impressum.md" data-separator="^\n\n\n" data-separator-vertical="^\n\n"
+				data-separator-notes="^Note:" data-charset="utf-8"></section>
+
+			</section>
 		</div>
 	</div>
 	<!--
 	Note that Windows uses `\r\n` instead of `\n` as its linefeed character.
 	For a regex that supports all operating systems, use `\r?\n` instead of `\n`.
 	-->
-</section>
 
-<script src="dist/reveal.js"></script>
-<script src="plugin/notes/notes.js"></script>
-<script src="plugin/markdown/markdown.js"></script>
-<script src="plugin/highlight/highlight.js"></script>
-<script>
-	// More info about initialization & config:
-	// - https://revealjs.com/initialization/
-	// - https://revealjs.com/config/
-	Reveal.initialize({
-		hash: true,
-		
-		// Learn about plugins: https://revealjs.com/plugins/
-		plugins: [ RevealMarkdown, RevealHighlight, RevealNotes ]
-	});
-</script>
+	<script src="dist/reveal.js"></script>
+	<script src="plugin/notes/notes.js"></script>
+	<script src="plugin/markdown/markdown.js"></script>
+	<script src="plugin/highlight/highlight.js"></script>
+	<script>
+		// More info about initialization & config:
+		// - https://revealjs.com/initialization/
+		// - https://revealjs.com/config/
+		Reveal.initialize({
+			hash: true,
+
+			// Learn about plugins: https://revealjs.com/plugins/
+			plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
+		});
+	</script>
 </body>
+
 </html>
