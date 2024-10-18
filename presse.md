@@ -13,5 +13,8 @@
 
 <p style="font-size: 11px; text-align: justify;">Dennoch wurde ein grundlegendes Problem identifiziert: Die Qualität und Vollständigkeit der verfügbaren Datenbasis in vielen Unternehmen ist oft unzureichend und deren Pflege oder Aufbereitung mit erheblichem Aufwand verbunden. Die wenigen verfügbaren Standards, wie die Asset Administration Shell, werden bisher zu wenig eingesetzt. Zukünftige Projekte sollten daher auch darauf abzielen, den erforderlichen Pflegeaufwand zu minimieren und kleine und mittelständische Unternehmen (KMU) besser zu unterstützen, um eine brauchbare Datengrundlage zu schaffen und die Potenziale von KI voll ausnutzen zu können.</p>
 
-<p style="font-size: 11px; text-align: left;"><strong>Kontakt:</strong></p>
-<p style="font-size: 11px; text-align: left;"><strong>Heike Hoppmann</strong>, Kontakt für Medienanfragen, AX Semantics, heike.hoppmann@ax-semantics.com, Tel. +4917616994863<br><strong>Prof. Dr. techn. Daniel Palm</strong>, Logistik & Suplychain Management, Hochschule Reutlingen, daniel.palm@reutlingen-university.de, Tel. +4971212713105</p>
+<p style="font-size: 11px; text-align: left;"><strong>Kontakt:</strong><br><strong>Heike Hoppmann</strong>, Kontakt für Medienanfragen, AX Semantics, heike.hoppmann@ax-semantics.com, Tel. +4917616994863<br><strong>Prof. Dr. techn. Daniel Palm</strong>, Logistik & Suplychain Management, Hochschule Reutlingen, daniel.palm@reutlingen-university.de, Tel. +4971212713105</p>
+
+<a href="assets/Pressemitteilung Abschluss des Projekts KISprachtec.docx" download>
+    <button style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px;">Download Word File</button>
+</a>
