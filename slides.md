@@ -16,7 +16,7 @@ Eine Kollaboration von
 </a> 
 und dem
 <a href="https://www.esb-business-school.de/forschung/wertschoepfungs-und-logistiksysteme/werk150" target="_blank" style="vertical-align: bottom;">
-  <img src="assets/logos/werk150_full.png" style="height: 40px; vertical-align: bottom; margin-bottom: 4px; margin-right: 15px; margin-left: 15px;" alt="Werk150 Logo">
+  <img src="assets/logos/werk150_full_updated.png" style="height: 40px; vertical-align: bottom; margin-bottom: 4px; margin-right: 15px; margin-left: 15px;" alt="Werk150 Logo">
 </a>
 der Hochschule Reutlingen
 
